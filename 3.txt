@@ -1,0 +1,2 @@
+This is my third file named as 3.txt and content inside this is 
+I am Studying in Chitkara University
