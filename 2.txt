@@ -1,0 +1,2 @@
+Hello this is Second file in vi called as 2.txt and the name is 
+Aditya Kumar

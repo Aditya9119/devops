@@ -1,0 +1,6 @@
+Hello this is the first file in git using vi and name is
+Aditya
+
+
+
+
